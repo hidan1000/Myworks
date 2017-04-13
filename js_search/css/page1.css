@@ -1,0 +1,42 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	list-style: none;	
+}
+a,p,h1,h2,div,span,img {
+	margin: 10px;
+}
+body {
+	background:  #F5F5F5;
+}
+
+#main{
+	margin: 10px 20%;
+}
+
+h1 {
+	padding-left: 20px;
+}
+
+img {
+	display: block;
+	height: 15em;
+}
+
+h2 {
+	padding-left: 40%;
+}
+
+.field {
+	padding: 2px;
+	border: lightgrey inset;
+	background: white;
+}
+
+.high {
+	padding: 5px;
+	height: 30em;
+	overflow: auto;
+	text-indent: 20px;
+}

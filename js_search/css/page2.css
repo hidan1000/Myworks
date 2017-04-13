@@ -1,0 +1,27 @@
+.search {
+	float: right;
+}
+
+h1 {
+	width: 20em;
+	margin: 10px auto;
+}
+
+table {
+	width: 90%;
+	margin: 10px auto;
+}
+
+tr {
+	height: 3em;
+}
+
+td, th {
+	outline: black solid 2px;
+	margin: 0px;
+	padding: 3px;
+}
+
+.lit {
+	background: yellow;
+}
